@@ -22,12 +22,12 @@ public class TestController {
     }
 
     /*
-    for postman
+    for postman to check
 
       {
 
-        "name": "sadd",
-        "password": "asds"
+        "name": "bibek",
+        "password": "bibek"
     }
 
 
